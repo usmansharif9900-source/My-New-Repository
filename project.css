@@ -1,0 +1,249 @@
+
+body{
+  margin: 0;
+  padding: 0;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 50px;
+  background: #ff4f68;
+  color: white;
+}
+
+nav a {
+  margin-left: 20px;
+  text-decoration: none;
+  color: white;
+  background: #ff4f68;color: white;
+}
+
+.hero {
+  display: flex;color: white;
+  align-items: center;
+  justify-content: space-around;
+  padding: 50px;padding-bottom: 0px;
+  flex-wrap: wrap;background: #ff4f68;
+}
+
+.text {
+    background: #ff4f68;
+  max-width: 400px;color: white;
+}
+
+.buttons .store {
+  display: inline-block;
+  background: white;
+  color: #ff4f68;
+  padding: 10px 15px;
+  margin: 10px 5px 0 0;
+  text-decoration: none;
+}
+.play{
+    color: white;
+    border: 1px solid white;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+
+.images img {
+    height: 300PX;
+    margin: 20px;
+    border-radius: 20px;
+  background: #ff4f68;
+}
+.feature{
+  text-align: center;
+  padding-top: 30px;
+}
+.ssl{
+  display: flex;
+  padding:10px ;
+  gap: 20px;
+
+}
+.card{
+  box-shadow: 0 0 6px black;
+  border-radius: 5px;
+  padding-left: 20px;
+}
+
+.api{
+  display: flex;padding:10px;
+gap: 20px;
+}
+.container{
+  font-family: sans-serif;margin-top: 60px;
+  justify-content: space-around;margin: 0 50px;
+  padding-top: 20px;
+}
+.main{
+  display: flex;
+  margin-top: 100px;
+}
+.now{
+  margin: 50px 10px 0 30px;
+  padding-top: 30px; padding-left: 30px;
+}
+.table{
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  margin-bottom: 100px;
+}
+.loyalty{
+  padding: 100px 10px 50px 60px;
+}
+.page{
+  text-align: center;
+  background-color: #ff4f68;
+  padding: 30px 0px 50px 0;
+  color: white;
+}
+.tag{
+  padding-top: 100px;
+  text-align: center;
+}
+.bar i {
+  color:red;
+}
+.buy{
+  display: flex;
+ justify-content:space-around;gap: px;margin: 0 20px;
+}
+ .hobby , .free , .start , .enter{
+  box-shadow:0 0 3px black;padding: 20px ;border: none;
+
+}
+.enter{
+  display: block;
+}
+.team{
+  text-align: center;margin: 100px 0 0 0;
+}
+.team h4{
+  color: #ff4f68;
+}
+.imag{
+  display: flex;
+  gap: 20px;
+  justify-content: center;margin: 50px;
+}
+.car{
+  width: 300px;box-shadow: 0 0 4px black;
+}
+.car img{
+  width: 100%;height: 180px;
+}
+.car h3{
+  margin: 10px;font-size: 18px;
+}
+.car p{
+  margin: 0 10px;color: #ff4f68;font-size: 14px;
+}
+.icons{
+cursor: pointer;
+  margin-left:250px;
+
+}
+.cicon{
+  display:flex;justify-items: center;justify-content: center;
+}
+.pla{ justify-items: center;justify-content: center;
+  text-align: center;
+}
+.color{
+padding: 70px 100px;
+background-color: #ff4f68;
+}
+.faq{
+  padding-top: 30px;
+  text-align: center;
+}
+.display{
+  text-align: center;
+  padding: 50px 0 0 50px;
+border-radius: 10px ;
+width: 80%;
+margin: auto;
+
+}
+.answer{
+  display: none;
+  padding: 10px ;
+  background-color: rgb(235, 239, 239);
+  border-radius: 10px;
+  text-align: left;
+  padding-left:  30px;
+}
+.how:hover .answer{
+  display: block;
+}
+.heading{
+            cursor: pointer;
+          padding: 15px;
+            margin: 15px;
+            border: 1px solid gray;
+            border-radius: 10px;
+            text-align: left;
+        }
+.how:hover .heading{
+  background-color: #ff4f68;
+}
+.lastimages{
+  display: flex;
+padding: 50px 50px 0 50px;
+margin: 60px;
+}
+.lastimages img{
+  width: 330px ;
+  height: 200px;
+    border-radius: 10px 10px 0 0px;
+  }
+  .lastimages div{
+    border: 1px solid black;
+    margin: 10px;
+    text-align: left;
+    border-radius: 10px;
+  }
+  .lastimages h4{
+    padding-left: 20px;
+  }
+   .lastimages h3{
+    padding-left: 20px;
+  }
+   .lastimages p{
+    padding-left: 20px;
+  }
+  .lastlogo{
+    display: flex;
+    margin: 10px;
+    font-size: 20px;
+  }
+  .lastlogo div{
+    margin: 0 20px 0 130px;
+    justify-items: center;
+  }
+  footer{
+    display: flex;
+    background-color: black;
+    color: white;
+    margin:0;
+  }
+  footer div{
+    margin: 30px 20px 0 70px;
+  }
+  article{
+    
+    padding: 0 0 0 10px;
+  }
+  
+  .lastst{
+    background-color: black;
+    color: white;
+    display: flex;
+  }
+  .lastst spain{
+    margin: 30px 0 10px 70px ;
+  }
